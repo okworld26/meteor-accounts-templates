@@ -1,8 +1,8 @@
 Package.describe({
-	name: "danimal:accounts-templates",
-	summary: "Account templates for Meteor.",
+	name: "okworld26:meteor-accounts-templates",
+	summary: "Account templates for Meteor, Forked from danimal:accounts-templates, only translate Language.",
 	version: "1.0.7",
-	git: "https://github.com/dan335/meteor-accounts-templates.git"
+	git: "https://github.com/okworld26/meteor-accounts-templates.git"
 });
 
 Package.onUse(function(api) {
